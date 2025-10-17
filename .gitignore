@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment / credentials
+.env
+.env.*
+*.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional: ignore large cached files or outputs)
+data/raw/
+data/parsed/formulary.json
+data/parsed/formulary_embeddings.npz
+
+# Logs
+*.log
+
+# CSV / JSON outputs (optional if you want to regenerate them)
+preferred_drugs.csv
+preferred_drugs.json
+
+# Python virtual environment
+venv/
+env/
+
+
+*.html
+downloads/
