@@ -18,8 +18,8 @@ The system scrapes the drug formulary webpage, parses structured data, stores it
 ## 🏗️ Project Structure
 
 HORIZON-FORMULARY-SCRAPER/
-│
-├── backend/
+│                          
+├── backend/                    
 │   ├── run.py                   # Main entry point for backend  
 │   ├── requirements.txt         # Python dependencies  
 │   ├── .env                     # Environment variables (API keys, etc.)  
@@ -43,8 +43,8 @@ HORIZON-FORMULARY-SCRAPER/
 
 ### 🧩 1. Clone the Repository
 
-git clone https://github.com/yourusername/horizon-formulary-scraper.git
-cd horizon-formulary-scraper
+- `git clone https://github.com/yourusername/horizon-formulary-scraper.git`
+- `cd horizon-formulary-scraper`
 
 
 
