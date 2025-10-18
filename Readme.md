@@ -43,7 +43,7 @@ HORIZON-FORMULARY-SCRAPER/
 
 ### 🧩 1. Clone the Repository
 
-- `git clone https://github.com/Vanshii/horizon-formulary-scraper.git`
+- `git clone https://github.com/Vanshii/horizon-formulary-scrapper.git`
 - `cd horizon-formulary-scraper`
 
 
